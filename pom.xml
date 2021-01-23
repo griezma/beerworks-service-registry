@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>griezma.mssc</groupId>
-    <artifactId>beerworks-service-registry</artifactId>
+    <artifactId>mssc-beerworks-service-registry</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>beerworks-service-registry</name>
+    <name>mssc-beerworks-service-registry</name>
     <description>Eureka service registry</description>
 
     <properties>
