@@ -6,8 +6,8 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @EnableEurekaServer
 @SpringBootApplication
-public class BeerworksServiceRegistry {
+public class ServiceRegistry {
     public static void main(String[] args) {
-        SpringApplication.run(BeerworksServiceRegistry.class, args);
+        SpringApplication.run(ServiceRegistry.class, args);
     }
 }
